@@ -1,1 +1,1 @@
-g++ main.cpp game.cpp utils.cpp -o game.exe
+g++ main.cpp game.cpp utils.cpp -o bocon.exe
